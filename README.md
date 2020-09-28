@@ -1,12 +1,4 @@
 ### Who Am I
-
-<a href="https://twitter.com/elvesydev">
-  <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">
-</a>
-<a href="https://discord.gg/ExJjwZx">
-  <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">
-</a>
-
 <br>
 
 #### Merhaba, Ben Elvêsy! 👋
