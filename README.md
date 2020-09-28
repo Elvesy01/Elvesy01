@@ -16,7 +16,7 @@
 Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip edebilirsiniz.**<br>
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle Bağlantı Kur:</h3>
 <p>
 <a href="https://discord.gg/ExJjwZx">
   <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">
