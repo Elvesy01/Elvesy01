@@ -11,9 +11,9 @@
 
 ### Ben Kimim?
 
-Discord üzerinde kendini geliştirmeye çalışan ve kodlama yapan bir Kişiyim.<br>
+**Discord üzerinde kendini geliştirmeye çalışan ve kodlama yapan bir Kişiyim.<br>
 İnsanlara faydalı olacak projeler yapmayı ve kodlamayı çok seviyorum,<br>
-Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip edebilirsiniz.<br>
+Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip edebilirsiniz.**<br>
 
 
 **Diller ve Araçlar:**  
