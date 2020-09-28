@@ -20,7 +20,7 @@ Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip
 <a href="https://dev.to/elvesydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elvesydev" height="30" width="40" /></a>
 </p>
 
-### 🎧 Spotify Dinliyor!
+#### 🎧 Spotify Dinliyor!
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Elvêsy Spotify Dinliyor!" width="350" />](https://open.spotify.com/user/tf1itdeo561s4a3e04c1krz3k)
 
 <hr />
