@@ -1,4 +1,4 @@
-### Merhaba, Ben Elvêsy! 👋
+### Who Am I
 
 <a href="https://twitter.com/elvesydev">
   <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">
@@ -9,11 +9,23 @@
 
 <br>
 
-### Who Am I?
+#### Merhaba, Ben Elvêsy! 👋
 
 **Discord üzerinde kendini geliştirmeye çalışan ve kodlama yapan bir Kişiyim.<br>
 İnsanlara faydalı olacak projeler yapmayı ve kodlamayı çok seviyorum,<br>
 Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip edebilirsiniz.**<br>
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<p>
+<a href="https://discord.gg/ExJjwZx">
+  <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">
+</a>
+<a href="https://twitter.com/elvesydev">
+  <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png">
+</a>
+<a href="https://dev.to/elvesydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elvesydev" height="30" width="40" /></a>
+</p>
 <hr />
 
 **Diller ve Araçlar:**  
