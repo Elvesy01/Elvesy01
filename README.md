@@ -1,5 +1,6 @@
 ### Who Am I
-<br>
+
+<hr />
 
 #### Merhaba, Ben Elvêsy! 👋
 
@@ -8,7 +9,7 @@
 Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip edebilirsiniz.**<br>
 
 <p align="left">
-<h3 align="left">Benimle Bağlantı Kur:</h3>
+<h4 align="left">Benimle Bağlantı Kur:</h4>
 <p>
 <a href="https://discord.gg/ExJjwZx">
   <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png">
@@ -80,6 +81,7 @@ Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vba.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
+<hr />
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Elvesy01&show_icons=true&theme=dark&count_private=true&line_height=21">
