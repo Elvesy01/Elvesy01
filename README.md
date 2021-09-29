@@ -21,7 +21,7 @@ Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip
 </p>
 
 #### 🎧 Spotify Dinliyor!
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Elvêsy Spotify Dinliyor!" width="350" />](https://open.spotify.com/user/tf1itdeo561s4a3e04c1krz3k)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Elvêsy Spotify Dinliyor!" width="350" />](https://open.spotify.com/user/	4h6i2tfohzqdd8wtbj1me9sl3)
 
 <hr />
 
