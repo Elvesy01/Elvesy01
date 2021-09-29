@@ -21,7 +21,7 @@ Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip
 </p>
 
 #### 🎧 Spotify Dinliyor!
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	4h6i2tfohzqdd8wtbj1me9sl3&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=	4h6i2tfohzqdd8wtbj1me9sl3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lk653ckcwpmd78uvwlzyrpur6&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=lk653ckcwpmd78uvwlzyrpur6&redirect=true)
 
 <hr />
 
