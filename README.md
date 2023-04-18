@@ -20,7 +20,7 @@ Hakkımda daha detaylı bilgi edinebilmek için beni sosyal platformlardan takip
 <a href="https://dev.to/elvesydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elvesydev" height="30" width="40" /></a>
 </p>
 
-#### 🎧 Spotify Dinliyor!
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/851095302672744479?hideDiscrim=true)](https://discord.com/users/851095302672744479)
 
 <hr />
 
